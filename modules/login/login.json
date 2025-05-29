@@ -19,6 +19,13 @@
             "id": "krbzhzhjdf",
             "label": "password",
             "propertyName": "inputs.password"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "30",
+            "id": "nxpewiljnm",
+            "label": "expiresInMins",
+            "propertyName": "inputs.expiresInMins"
           }
         ],
         "id": "cemgepkgic",

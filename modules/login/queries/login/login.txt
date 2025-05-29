@@ -1,4 +1,5 @@
 {
     username: {{inputs.username}},
     password: {{inputs.password}},
+		expiresInMins: {{inputs.expiresInMins}},
 }

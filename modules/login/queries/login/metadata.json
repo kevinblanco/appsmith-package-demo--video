@@ -12,7 +12,7 @@
           "value": "application/json"
         }
       ],
-      "body": "{\n    username: {{inputs.username}},\n    password: {{inputs.password}},\n}",
+      "body": "{\n    username: {{inputs.username}},\n    password: {{inputs.password}},\n\t\texpiresInMins: {{inputs.expiresInMins}},\n}",
       "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {
