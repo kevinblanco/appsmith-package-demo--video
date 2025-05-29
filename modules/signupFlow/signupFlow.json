@@ -1,0 +1,93 @@
+{
+  "gitSyncId": "683883ab89226e7160bda01b_1a691558-b5a5-4f58-890e-9cbbcf703cc2",
+  "moduleUUID": "4d0be856-f6c2-4d91-9a3f-2beb54dfa109",
+  "type": "JS_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "pupxzryyax",
+            "label": "validatePassword",
+            "propertyName": "inputs.validatePassword"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "ajyhgyhgqj",
+            "label": "verifyEmail",
+            "propertyName": "inputs.verifyEmail"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "paallfvylz",
+            "label": "validateEmail",
+            "propertyName": "inputs.validateEmail"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "vamaaeqpbw",
+            "label": "updateFormField",
+            "propertyName": "inputs.updateFormField"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "mvyulrwpcp",
+            "label": "registerUser",
+            "propertyName": "inputs.registerUser"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "ekpoojennx",
+            "label": "resendVerification",
+            "propertyName": "inputs.resendVerification"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "ulqlpbipfb",
+            "label": "checkEmailExists",
+            "propertyName": "inputs.checkEmailExists"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "fovaqecton",
+            "label": "getPasswordStrength",
+            "propertyName": "inputs.getPasswordStrength"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "imwqpzckos",
+            "label": "validateForm",
+            "propertyName": "inputs.validateForm"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "uolpcohqux",
+            "label": "clearForm",
+            "propertyName": "inputs.clearForm"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "grbeybcomb",
+            "label": "sendVerificationEmail",
+            "propertyName": "inputs.sendVerificationEmail"
+          }
+        ],
+        "id": "xscrlgokae",
+        "sectionName": ""
+      }
+    ],
+    "name": "signupFlow"
+  }
+}

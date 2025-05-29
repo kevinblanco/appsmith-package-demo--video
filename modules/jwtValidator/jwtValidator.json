@@ -1,0 +1,86 @@
+{
+  "gitSyncId": "683883ab89226e7160bda01b_5a99d558-e37d-471e-a2cb-170c4401707a",
+  "moduleUUID": "e4fcebe0-85cf-4a5e-be00-18be41493aae",
+  "type": "JS_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "ukclqoxlgy",
+            "label": "validateToken",
+            "propertyName": "inputs.validateToken"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "nkgyqxkxxz",
+            "label": "decodeToken",
+            "propertyName": "inputs.decodeToken"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[\"{{null}}\"]",
+            "id": "dydiaarqvs",
+            "label": "setToken",
+            "propertyName": "inputs.setToken"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "yxpnrfmggu",
+            "label": "hasPermission",
+            "propertyName": "inputs.hasPermission"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "mlrgwstebc",
+            "label": "refreshAuthToken",
+            "propertyName": "inputs.refreshAuthToken"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "ndifqxtltp",
+            "label": "needsRefresh",
+            "propertyName": "inputs.needsRefresh"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "jqmafffxqr",
+            "label": "getUserRole",
+            "propertyName": "inputs.getUserRole"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "ppaiejsulk",
+            "label": "getAuthHeader",
+            "propertyName": "inputs.getAuthHeader"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "pzzwcxnxey",
+            "label": "logout",
+            "propertyName": "inputs.logout"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "xnwxaxthif",
+            "label": "prepareApiCall",
+            "propertyName": "inputs.prepareApiCall"
+          }
+        ],
+        "id": "olnzdcercu",
+        "sectionName": ""
+      }
+    ],
+    "name": "jwtValidator"
+  }
+}

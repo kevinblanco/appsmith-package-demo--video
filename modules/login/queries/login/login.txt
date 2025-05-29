@@ -1,0 +1,4 @@
+{
+    username: {{inputs.username}},
+    password: {{inputs.password}},
+}

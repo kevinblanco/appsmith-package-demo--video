@@ -1,0 +1,30 @@
+{
+  "gitSyncId": "683883ab89226e7160bda01b_b7a986da-3f00-436d-9118-ad90dddcd1ec",
+  "moduleUUID": "8472b448-e906-432a-ae79-79977c75fbf7",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "emilys",
+            "id": "jyjiymjwel",
+            "label": "username",
+            "propertyName": "inputs.username"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "emilyspass",
+            "id": "krbzhzhjdf",
+            "label": "password",
+            "propertyName": "inputs.password"
+          }
+        ],
+        "id": "cemgepkgic",
+        "sectionName": ""
+      }
+    ],
+    "name": "login"
+  }
+}

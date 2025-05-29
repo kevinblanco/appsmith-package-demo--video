@@ -1,0 +1,30 @@
+{
+  "gitSyncId": "683883af89226e7160bda01c_8266fb80-7631-4e68-9728-0cf98968a40d",
+  "id": "jwtValidator_jwtValidator",
+  "isPublic": true,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "jwtValidator",
+    "name": "jwtValidator",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "currentToken",
+        "value": "''"
+      },
+      {
+        "name": "refreshToken",
+        "value": "''"
+      },
+      {
+        "name": "userClaims",
+        "value": "{}"
+      },
+      {
+        "name": "config",
+        "value": "{\n  audience: 'internal-users',\n  expiryBuffer: 5 * 60 * 1000\n}"
+      }
+    ]
+  }
+}

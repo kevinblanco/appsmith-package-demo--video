@@ -1,0 +1,22 @@
+{
+  "gitSyncId": "683883c189226e7160bda05c_84c656c5-0200-4bc0-b528-20a7675d7f13",
+  "id": "signupFlow_signupFlow",
+  "isPublic": true,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "signupFlow",
+    "name": "signupFlow",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "formData",
+        "value": "{\n  firstName: '',\n  lastName: '',\n  email: '',\n  password: '',\n  confirmPassword: '',\n  company: '',\n  phone: ''\n}"
+      },
+      {
+        "name": "validationRules",
+        "value": "{\n  email: /^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/,\n  password: /^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$/,\n  phone: /^[\\+]?[1-9][\\d]{0,15}$/\n}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "683883ab89226e7160bda01b_9db2b90c-15d2-4dc9-a4ca-ad078a8e0675",
+  "moduleUUID": "8b32a638-93fa-4e91-94d8-db71bf74fad0",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NDg1MzQ1MjIsImV4cCI6MTc0ODUzNjMyMn0.bXr7iXfb2nbKLJHGdIUudLBwKBABGDzaUqynweclPVM",
+            "id": "jgclsmcaxx",
+            "label": "token",
+            "propertyName": "inputs.token"
+          }
+        ],
+        "id": "ujokwzhroy",
+        "sectionName": ""
+      }
+    ],
+    "name": "getCurrentUser"
+  }
+}
